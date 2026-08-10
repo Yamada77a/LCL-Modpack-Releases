@@ -1,1 +1,1 @@
-{"id":"linshuang-modpack-updater","latest":"1.0.1","url":"https://github.com/Yamada77a/LCL-Modpack-Releases/releases/download/updater-1.0.1/LCLUpdater.exe","sha256":"fee3c938fb1df3de317fe1350a8cc70a3d27e7058a7ea618baec5447ad2fd449","size":120320,"notes":"更新器已升级到 1.0.1。"}
+{"id":"linshuang-modpack-updater","latest":"1.0.2","url":"https://github.com/Yamada77a/LCL-Modpack-Releases/releases/download/updater-1.0.2/LCLUpdater.exe","sha256":"7fee895de76437e4b4f70773379bd51f6322abb56c72d6978ba5d942676ca13e","size":120832,"notes":"资源包更新支持：resourcepacks 目录的新增、修改和删除会同步。"}
