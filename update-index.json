@@ -1,1 +1,46 @@
-{"id":"林双的重工乐事","latest":"1.3.2","updates":[{"from":"1.0.0","notes":"增强了怪物的属性","sha256":"ba0ce71f7b94cd40f5e9a1141761fce471e9599b83b2a8728ef3440096263c05","size":314138618,"to":"1.3.0","url":"https:\/\/github.com\/Yamada77a\/LCL-Modpack-Releases\/releases\/download\/1.3.0\/update-1.3.0.zip"},{"from":"1.3.0","notes":"加入了航天系统，修复了创造物品栏搜索无效的BUG，给部分mod添加了汉化","sha256":"2ed1d62f45285b6f31ce0ef9c9709978302a696cc7a6f2dc25d40c88c30dbbad","size":41237877,"to":"1.3.1","url":"https:\/\/github.com\/Yamada77a\/LCL-Modpack-Releases\/releases\/download\/1.3.1\/update-1.3.1.zip"},{"from":"1.3.1","notes":"发布更新：1.3.2","sha256":"8f354fb78892abbd55f015a5891ec338d29425a89b87bbcd2827b26637787bf0","size":129777,"to":"1.3.2","url":"https:\/\/github.com\/Yamada77a\/LCL-Modpack-Releases\/releases\/download\/1.3.2\/update-1.3.2.zip"},{"from":"*","notes":"发布更新：1.3.2","sha256":"558ef3e61f254fa468ab1b6d337104e79847689a7f6346300867b20663b24e13","size":344292527,"to":"1.3.2","url":"https:\/\/github.com\/Yamada77a\/LCL-Modpack-Releases\/releases\/download\/1.3.2\/full-1.3.2.zip"}]}
+{
+  "id": "林双的重工乐事",
+  "latest": "1.3.3",
+  "updates": [
+    {
+      "from": "1.0.0",
+      "notes": "增强了怪物的属性",
+      "sha256": "ba0ce71f7b94cd40f5e9a1141761fce471e9599b83b2a8728ef3440096263c05",
+      "size": 314138618,
+      "to": "1.3.0",
+      "url": "https://github.com/Yamada77a/LCL-Modpack-Releases/releases/download/1.3.0/update-1.3.0.zip"
+    },
+    {
+      "from": "1.3.0",
+      "notes": "加入了航天系统，修复了创造物品栏搜索无效的BUG，给部分mod添加了汉化",
+      "sha256": "2ed1d62f45285b6f31ce0ef9c9709978302a696cc7a6f2dc25d40c88c30dbbad",
+      "size": 41237877,
+      "to": "1.3.1",
+      "url": "https://github.com/Yamada77a/LCL-Modpack-Releases/releases/download/1.3.1/update-1.3.1.zip"
+    },
+    {
+      "from": "1.3.1",
+      "notes": "发布更新：1.3.2",
+      "sha256": "8f354fb78892abbd55f015a5891ec338d29425a89b87bbcd2827b26637787bf0",
+      "size": 129777,
+      "to": "1.3.2",
+      "url": "https://github.com/Yamada77a/LCL-Modpack-Releases/releases/download/1.3.2/update-1.3.2.zip"
+    },
+    {
+      "from": "1.3.2",
+      "to": "1.3.3",
+      "notes": "改进了后羿之弓的射击表现",
+      "sha256": "4abb09ae7757d5a4e346cc3457a30089bff81ea5ffacda9c32fd1c7a69fd9604",
+      "size": 201601,
+      "url": "https://github.com/Yamada77a/LCL-Modpack-Releases/releases/download/1.3.3/update-1.3.3.zip"
+    },
+    {
+      "from": "*",
+      "to": "1.3.3",
+      "notes": "改进了后羿之弓的射击表现",
+      "sha256": "f2e6a1617d702989df6769558f64e1f87879666eec369f045d0c2a9a245f6176",
+      "size": 344362822,
+      "url": "https://github.com/Yamada77a/LCL-Modpack-Releases/releases/download/1.3.3/full-1.3.3.zip"
+    }
+  ]
+}
